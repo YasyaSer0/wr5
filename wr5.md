@@ -139,3 +139,8 @@ lp ~/Documents/cat.jpg
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/2b870e25-ca49-4ac4-a7f4-97700e6c8d83" />
 
 Рисунок 10 - Результат друку файлу cat.jpg на принтері.
+
+## Conclusion
+During this work, the principles of working with peripheral devices in the Linux operating system were studied. A USB flash drive and a printer were connected to the virtual machine with the installed Linux OS. Using the graphical interface, a file was copied from the flash drive to the system and printed. The same operations were also performed through the terminal using the corresponding commands.
+
+During the work, the commands lsblk, cp, and lp were used to check connected devices, copy files, and print documents. As a result, practical skills of working with peripheral devices in the Linux operating system were obtained using both the graphical interface and the command line.
